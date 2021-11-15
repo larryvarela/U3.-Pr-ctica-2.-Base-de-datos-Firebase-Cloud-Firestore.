@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885342939756",
+    "project_id": "unidad3-71a90",
+    "storage_bucket": "unidad3-71a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885342939756:android:45b3a81b39a5e2da834649",
+        "android_client_info": {
+          "package_name": "mx.edu.tepic.ladm_u3_ejercicio3_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885342939756-m6oj28phcitnl6kbn1ig7sm2bmpir36q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCprNSevn1Iqub4oIEErKTS-mZZtFFpiss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885342939756-m6oj28phcitnl6kbn1ig7sm2bmpir36q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
